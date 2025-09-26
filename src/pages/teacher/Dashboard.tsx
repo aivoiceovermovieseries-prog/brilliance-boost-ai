@@ -132,7 +132,7 @@ const TeacherDashboard = () => {
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="flex items-center space-x-2">
             <GraduationCap className="h-8 w-8 text-primary" />
-            <span className="text-2xl font-bold text-gradient">Blackbox AI</span>
+            <span className="text-2xl font-bold text-gradient">learnaura</span>
             <Badge variant="secondary" className="ml-2">Teacher</Badge>
           </div>
           <div className="flex items-center space-x-4">

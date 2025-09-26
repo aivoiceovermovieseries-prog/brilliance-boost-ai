@@ -59,7 +59,7 @@ const SignUp = () => {
 
     toast({
       title: "Account Created",
-      description: `Welcome to Blackbox AI, ${formData.name}!`,
+      description: `Welcome to learnaura, ${formData.name}!`,
     });
 
     // Redirect based on user type
@@ -77,7 +77,7 @@ const SignUp = () => {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center space-x-2 mb-4">
             <GraduationCap className="h-10 w-10 text-white" />
-            <span className="text-3xl font-bold text-white">Blackbox AI</span>
+            <span className="text-3xl font-bold text-white">learnaura</span>
           </div>
           <p className="text-white/80">Join thousands of successful learners</p>
         </div>

@@ -65,7 +65,7 @@ const StreamSelection = () => {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center space-x-2 mb-4">
             <GraduationCap className="h-10 w-10 text-white" />
-            <span className="text-3xl font-bold text-white">Blackbox AI</span>
+            <span className="text-3xl font-bold text-white">learnaura</span>
           </div>
           <h1 className="text-4xl font-bold text-white mb-2">Choose Your Stream</h1>
           <p className="text-white/80 text-lg">Select your entrance exam to get personalized learning content</p>

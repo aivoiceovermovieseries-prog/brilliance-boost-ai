@@ -64,7 +64,7 @@ const Login = () => {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center space-x-2 mb-4">
             <GraduationCap className="h-10 w-10 text-white" />
-            <span className="text-3xl font-bold text-white">Blackbox AI</span>
+            <span className="text-3xl font-bold text-white">learnaura</span>
           </div>
           <p className="text-white/80">Welcome back to your learning journey</p>
         </div>

@@ -39,7 +39,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="flex items-center space-x-2">
             <GraduationCap className="h-8 w-8 text-primary" />
-            <span className="text-2xl font-bold text-gradient">Blackbox AI</span>
+            <span className="text-2xl font-bold text-gradient">learnaura</span>
           </div>
           <div className="flex space-x-4">
             <Button 
@@ -99,7 +99,7 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold mb-4 text-gradient">
-              Why Choose Blackbox AI?
+              Why Choose learnaura?
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
               Experience the future of education with AI-driven personalization and comprehensive learning tools
@@ -201,14 +201,14 @@ const Index = () => {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center space-x-2 mb-4 md:mb-0">
               <GraduationCap className="h-8 w-8" />
-              <span className="text-2xl font-bold">Blackbox AI</span>
+              <span className="text-2xl font-bold">learnaura</span>
             </div>
             <div className="text-center md:text-right">
               <p className="text-primary-foreground/80">
                 Empowering the next generation of achievers
               </p>
               <p className="text-sm text-primary-foreground/60 mt-2">
-                © 2024 Blackbox AI. All rights reserved.
+                © 2024 learnaura. All rights reserved.
               </p>
             </div>
           </div>
