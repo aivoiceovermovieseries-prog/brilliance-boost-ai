@@ -3,5 +3,8 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
+  server: {
+    port: 8080
+  },
   base: '/brilliance-boost-ai/', // 👈 important for GitHub Pages
 })
